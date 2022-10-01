@@ -1,1 +1,3 @@
-Olá, meu nome é Giovani e isso é para uma aula do GiHub !
+Olá, meu nome é Giovani e isso é para uma aula do GiHub ,
+
+Essa será minha segunda modificação no código, para testar no GitHub!
